@@ -1,0 +1,4 @@
+#!/bin/bash
+# Binder runs this after building the environment.
+# Install gelav package in editable mode so notebooks can import it.
+pip install -e .
