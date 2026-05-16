@@ -3,7 +3,7 @@
 > Working code for the **GE-LAV** graduate finance course taught by Dr. Samir Asaf (PhD, CFA, CMA, CTP, CM&AA).
 > Replicate every numerical result from the lecture decks in 8 Jupyter notebooks.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: PolyForm Noncommercial 1.0.0](https://img.shields.io/badge/License-PolyForm%20Noncommercial%201.0.0-orange.svg)](https://polyformproject.org/licenses/noncommercial/1.0.0)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![Tests](https://github.com/drsamirasaf-creator/ge-lav-companion-code/actions/workflows/tests.yml/badge.svg)](https://github.com/drsamirasaf-creator/ge-lav-companion-code/actions/workflows/tests.yml)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/drsamirasaf-creator/ge-lav-companion-code/main)
@@ -130,10 +130,11 @@ portfolio analysis.
 **Track 2 (researcher):** Focus on notebooks 03, 05, 06, 08. These cover the
 numerical methods underlying the proofs (HJB, MFG fixed-point, Jensen, Pigou).
 
-**Capstone project:** You're encouraged to fork this repo, replace the
-synthetic data with your project's data, and submit your notebook as part of
-the final paper. Code submissions get **+5% bonus** on the project grade
-(see Session 30, slide 7).
+**Capstone project:** You're encouraged to clone this repo locally,
+adapt the notebooks with your project's data, and submit your notebook as part
+of the final paper. Code submissions get **+5% bonus** on the project grade
+(see Session 30, slide 7). Per the license, classroom and individual research
+use is permitted; redistribution outside the course requires written consent.
 
 ---
 
@@ -156,7 +157,21 @@ If you use this code in research or teaching, please cite:
 
 ## License
 
-[MIT](LICENSE). Use freely, attribution appreciated.
+**[PolyForm Noncommercial 1.0.0](LICENSE)** — this code is provided for
+educational, classroom, and non-commercial research use only.
+
+Permitted: classroom teaching, student coursework, academic research,
+personal study, fair use under copyright law.
+
+Not permitted without prior written consent: commercial use, SaaS deployment,
+resale, incorporation into competing valuation products, paid consulting
+deliverables, or use by for-profit organizations outside their internal
+research and education functions.
+
+The production GE-LAV(R) engine at https://liquidityillusion.com is
+separately licensed and not covered by this repository.
+
+For commercial licensing inquiries: drsamirasaf@gmail.com
 
 ## Contact
 

@@ -1,3 +1,12 @@
+"""
+Copyright (c) 2026 Samir Asaf. All rights reserved.
+
+Licensed under the PolyForm Noncommercial License 1.0.0.
+See LICENSE file for full terms.
+
+For commercial licensing inquiries: drsamirasaf@gmail.com
+Production engine: https://liquidityillusion.com
+"""
 """GE-LAV Companion Code
 
 Reusable mathematical primitives for the GE-LAV graduate finance course.

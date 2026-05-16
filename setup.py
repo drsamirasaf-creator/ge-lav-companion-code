@@ -16,7 +16,7 @@ setup(
     packages=find_packages(exclude=["tests", "notebooks"]),
     classifiers=[
         "Programming Language :: Python :: 3",
-        "License :: OSI Approved :: MIT License",
+        "License :: Other/Proprietary License",
         "Operating System :: OS Independent",
         "Intended Audience :: Education",
         "Intended Audience :: Financial and Insurance Industry",
