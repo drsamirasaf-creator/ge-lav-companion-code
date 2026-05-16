@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Asaf
+    given-names: Samir
+    email: drsamirasaf@gmail.com
+    orcid: # add your ORCID here if you have one
+title: "GE-LAV Companion Code"
+version: 0.1.0
+date-released: 2026-05-17
+url: "https://github.com/drsamirasaf-creator/ge-lav-companion-code"
+license: PolyForm-Noncommercial-1.0.0
+preferred-citation:
+  type: book
+  authors:
+    - family-names: Asaf
+      given-names: Samir
+  title: "Liquidity Illusion: The General Equilibrium Theory of Private Capital Valuation"
+  year: 2026
+  note: "Manuscript in preparation"
